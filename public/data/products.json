@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "name": "Camiseta Slim",
+        "price": 25.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            {
+                "name": "Azul",
+                "hexa": "#5297ff",
+                "image": "assets/image/camiseta-azul.jpg"
+            },
+            {
+                "name": "Branco",
+                "hexa": "#fff",
+                "image": "assets/image/camiseta-branca.jpg"
+            }
+        ],
+        "description": "Camiseta Azul de algodão",
+        "material": "Algodão",
+        "brand": "Marca X"
+    },
+    {
+        "id": 2,
+        "name": "Camiseta Fat",
+        "price": 20.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            {
+                "hexa": "#000",
+                "name": "Preto",
+                "image": "assets/image/camiseta-preta.jpg"
+            },
+            {
+                "hexa": "#d4d4d4",
+                "name": "Cinza",
+                "image": "assets/image/camiseta-cinza.jpg"
+            }
+        ],
+        "description": "Camiseta Preta básica",
+        "material": "Algodão",
+        "brand": "Marca Y"
+    },
+    {
+        "id": 3,
+        "name": "Camiseta Verão",
+        "price": 22.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            {
+                "name": "Verde",
+                "hexa": "#118f00",                
+                "image": "assets/image/camiseta-verde.jpg"
+            },
+            {
+                "name": "Branco",
+                "hexa": "#fff",
+                "image": "assets/image/camiseta-branca.jpg"
+            }
+        ],
+        "description": "Camiseta Verde de algodão",
+        "material": "Algodão",
+        "brand": "Marca Z"
+    },
+    {
+        "id": 4,
+        "name": "Camiseta Inverno",
+        "price": 19.99,
+        "sizes": [
+            "S",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            {
+                "hexa": "#8a8f00",
+                "name": "Amarelo",
+                "image": "assets/image/camiseta-amarela.jpg"
+            },
+            {
+                "hexa": "#fff",
+                "name": "Branco",
+                "image": "assets/image/camiseta-branca.jpg"
+            }
+        ],
+        "description": "Camiseta Amarela de algodão",
+        "material": "Algodão",
+        "brand": "Marca X"
+    },
+    {
+        "id": 5,
+        "name": "Camiseta Algodão",
+        "price": 21.99,
+        "sizes": [
+            "S",
+            "M",
+            "XL"
+        ],
+        "colors": [
+            {
+                "name": "Rosa",
+                "hexa": "#ff8ada",
+                "image": "assets/image/camiseta-rosa.jpg"
+            },
+            {
+                "name": "Branco",
+                "hexa": "#fff",
+                "image": "assets/image/camiseta-branca.jpg"
+            }
+        ],
+        "description": "Camiseta Rosa de algodão",
+        "material": "Algodão",
+        "brand": "Marca Y"
+    },
+    {
+        "id": 6,
+        "name": "Camiseta Malha",
+        "price": 23.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            {
+                "name": "Roxo",
+                "hexa": "#990069",
+                "image": "assets/image/camiseta-roxa.jpg"
+            },
+            {
+                "name": "Branco",
+                "hexa": "#fff",
+                "image": "assets/image/camiseta-branca.jpg"
+            }
+        ],
+        "description": "Camiseta Roxa de algodão",
+        "material": "Algodão",
+        "brand": "Marca Z"
+    },
+    {
+        "id": 7,
+        "name": "Camiseta UV",
+        "price": 24.99,
+        "sizes": [
+            "S",
+            "M",
+            "XL"
+        ],
+        "colors": [
+            {
+                "hexa": "#d4d4d4",
+                "name": "Cinza",
+                "image": "assets/image/camiseta-cinza.jpg"
+            },
+            {
+                "hexa": "#000",
+                "name": "Preto",
+                "image": "assets/image/camiseta-preta.jpg"
+            }
+        ],
+        "description": "Camiseta Cinza de algodão",
+        "material": "Algodão",
+        "brand": "Marca X"
+    },
+    {
+        "id": 8,
+        "name": "Camiseta Academia",
+        "price": 18.99,
+        "sizes": [
+            "S",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            {
+                "name": "Laranja",
+                "hexa": "#cc5800",
+                "image": "assets/image/camiseta-laranja.jpg"
+            },
+            {
+                "name": "Branco",
+                "hexa": "#fff",
+                "image": "assets/image/camiseta-branca.jpg"
+            }
+        ],
+        "description": "Camiseta Laranja de algodão",
+        "material": "Algodão",
+        "brand": "Marca Y"
+    },
+    {
+        "id": 9,
+        "name": "Camiseta Pijama",
+        "price": 26.99,
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            {
+                "name": "Marrom",
+                "hexa": "#751400",
+                "image": "assets/image/camiseta-militar.jpg"
+            },
+            {
+                "name": "Branco",
+                "hexa": "#fff",
+                "image": "assets/image/camiseta-branca.jpg"
+            }
+        ],
+        "description": "Camiseta Marrom de algodão",
+        "material": "Algodão",
+        "brand": "Marca Z"
+    },
+    {
+        "id": 10,
+        "name": "Camiseta Trikas",
+        "price": 27.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            {
+                "name": "Azul Escuro",
+                "hexa": "#1b0075",
+                "image": "assets/image/camiseta-azul-escuro.jpg"
+            },
+            {
+                "hexa": "#000",
+                "name": "Preto",
+                "image": "assets/image/camiseta-preta.jpg"
+            }
+        ],
+        "description": "Camiseta Azul Escuro de algodão",
+        "material": "Algodão",
+        "brand": "Marca X"
+    },
+    {
+        "id": 11,
+        "name": "Camiseta Brasil",
+        "price": 27.99,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            {
+                "hexa": "#fff",
+                "name": "Branco",
+                "image": "assets/image/camiseta-branca.jpg"
+            },
+            {
+                "name": "Azul Escuro",
+                "hexa": "#1b0075",
+                "image": "assets/image/camiseta-azul-escuro.jpg"
+            }
+        ],
+        "description": "Camiseta Branca de algodão",
+        "material": "Algodão",
+        "brand": "Marca P"
+    }
+]
